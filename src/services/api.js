@@ -77,7 +77,7 @@ export const getAnomalies = () =>
 
 /** Mock authentication (replace with POST /api/auth/login later). */
 export const DEMO_USERS = [
-  { email: 'admin@cloudguard.ai', password: 'admin123', name: 'Admin User', role: 'Security Analyst' },
+  { email: 'aishwaryagaikwad@gmail.com', password: 'aish123', name: 'Admin User', role: 'Security Analyst' },
 ]
 
 export async function login(email, password) {
