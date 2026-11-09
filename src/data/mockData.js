@@ -69,7 +69,7 @@ const ANOMALY_EVENTS = [
     sourceIPAddress: '185.220.101.43',
     awsRegion: 'us-east-1',
     errorCode: null,
-    anomaly_score: 0.91,
+    anomaly_score: 0.91,  
     reasons: ['Root account login', 'Unseen source IP (outside known ranges)', 'Login at 02:47 – outside working hours'],
   },
   {
